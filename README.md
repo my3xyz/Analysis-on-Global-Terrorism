@@ -5,7 +5,7 @@ Observations from the analysis of data on global terrorism:
 3. Bombing and explosion is the most common type of attack which accounts for 49.4% of the attacks.
 4. The most commonly used weapon is explosives which is quite obvious considering bombing is the most common type of attack & the data proves that.
 5. Close to 90% of the attacks are a success.
-6. The success rate of attacks based on the type of attack was calculated based on which Armed Assault and Infrastructure attacks were the most successful.
+6. The success rate of attacks based on the type of attack was calculated based in which Armed Assault and Infrastructure attacks were the most successful.
 7. Data analysis shows that bomb/explosives are the main cause and stopping the supply of them would cause a significant decrease in the number of attacks.
 8. Taliban is the group which caused the most number of attacks which means they should be proritized first
 9. 2014 was the year which had the most number of attacks.
