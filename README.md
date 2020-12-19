@@ -1,5 +1,5 @@
 # Analysis-on-Global-Terrorism
-Observations from the analysis of data on global terrorism
+Observations from the analysis of data on global terrorism:
 1. Middle East and North Africa are the regions with the most number of attacks followed by South Asia.
 2. Iraq is the country with the most number of attacks followed by Pakistan & Afghanistan.¶
 3. Bombing and explosion is the most common type of attack which accounts for 49.4% of the attacks.
